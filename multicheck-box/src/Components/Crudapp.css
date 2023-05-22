@@ -1,0 +1,130 @@
+/*  
+
+  *{
+    font-family: 'Poppins',sans-serif;
+  }
+  body{
+    
+    background: linear-gradient(90deg, #719dc6, #5444b0);;
+    }
+    
+  h1{
+    font-size: 2.5px;
+    font-style: italic;
+  
+      text-decoration: underline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'josefin sans';
+      font-size: 40px;
+    color: rgb(6, 1, 1)
+  }
+  main {
+    text-align: center;
+    vertical-align: center;
+    line-height: 100vh
+  }
+  
+  form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  form h2 {
+    margin-bottom: 20px;
+  }
+  
+  form label {
+    margin-right: 15px;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  form button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #0c4d92;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form button[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  
+  
+  table {
+    background-color: white;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table th,
+  table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  table th {
+    background-color: #190c64;
+    color: white;  font-weight: 500;
+  }
+  
+  table td button {
+    display: table-column-group;
+    justify-content: center;
+    margin-right: 10px;
+  }
+  .btn-danger{
+    color: #fff;
+    background-color: #8a0b0b;
+    border-color: #dc3545;
+    width: 30%;
+    border-radius: 10px;
+    
+  }
+  .btn-danger:hover {
+    color: #fff;
+    background-color: #950707;
+    border-color: #5d911a;
+   
+  }
+  .btn-primary{ color: #fff;
+    background-color: #339509;
+    border-color: #ad1827;
+    width: 30%;
+    border-radius: 10px;
+  
+  }
+  .btn-primary:hover{
+    color: #fff;
+    background-color: #62c638;
+    border-color: #5d911a;
+   
+  }
+  @media only screen and (max-width: 600px) {
+    body{
+      font-size: 14px;
+    }
+  }
+  
+   */
